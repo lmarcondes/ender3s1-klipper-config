@@ -3,3 +3,8 @@ database/
 backup/
 comms/
 moonraker.asvc
+printer-*_*.cfg
+gcodes/
+*.bkp
+.*.bkp
+config/.theme/

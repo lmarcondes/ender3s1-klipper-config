@@ -8,3 +8,4 @@ gcodes/
 *.bkp
 .*.bkp
 config/.theme/
+config/variables.cfg

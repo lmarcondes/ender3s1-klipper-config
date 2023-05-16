@@ -9,3 +9,5 @@ gcodes/
 .*.bkp
 config/.theme/
 config/variables.cfg
+octoeverywhere-store
+config/octoeverywhere.conf
